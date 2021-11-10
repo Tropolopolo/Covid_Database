@@ -1,0 +1,3 @@
+REMINDER FOR RYAN LAURENTS
+
+Be sure to change state_ab to state_name when transferring the code to your database.
